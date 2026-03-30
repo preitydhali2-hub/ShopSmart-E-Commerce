@@ -28,6 +28,22 @@ Feature selection and engineering
 Model building and evaluation
 Prediction of credit-related outcomes.
 
+🔄 Workflow :
+Data Collection
+Data Cleaning & Preprocessing
+Exploratory Data Analysis (EDA)
+Feature Engineering
+Model Building
+Model Evaluation
+Prediction & Insights.
+
+📊 Model Evaluation:
+Accuracy
+Precision
+Recall
+F1-Score
+Confusion Matrix
+
 🎯 Objectives:
 Analyze customer financial data
 Identify patterns in credit usage and repayment
