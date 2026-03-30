@@ -33,3 +33,5 @@ Analyze customer financial data
 Identify patterns in credit usage and repayment
 Predict creditworthiness using machine learning models
 Help in risk assessment for financial institutions.
+
+👩‍💻 Author Preity Dhali B.Tech CSE (AIML) GitHub: 
